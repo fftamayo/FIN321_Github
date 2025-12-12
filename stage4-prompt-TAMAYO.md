@@ -11,7 +11,7 @@ The spreadsheet must be executive-ready, auditable, and suitable for CFO review.
 # CONTEXT
 
 Translate the modeling logic from my Stage 2 specification and Stage 3 Excel logic into a new, complete, professional spreadsheet
-- https://github.com/fftamayo/FIN321_Github/blob/main/stage2-spec-tamayo.md
+- https://github.com/fftamayo/FIN321_Github/blob/main/stage2-spec-TAMAYO.md
 - https://github.com/fftamayo/FIN321_Github/stage3-.xlsx
 
 # INPUT VARIABLES (Scenario-Specific — All Values Explicit)
