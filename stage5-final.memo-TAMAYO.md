@@ -3,7 +3,9 @@ Stage 5 – Final Analysis & Recommendation Memo
 FX Hedging Analysis for EUR Receivable
 
 Prepared by: Frederick Tamayo Jr
+
 Role: Financial Analyst / Treasury Analyst
+
 Date: 12/12/25
 
 A. Exposure Summary
